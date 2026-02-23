@@ -1,4 +1,4 @@
-j# ApexaiQ 
+# ApexaiQ 
 - Clean, Auditable Inventory
 - Prioritize what maters
 - Guard your Exposure, know risks and Take Action.
