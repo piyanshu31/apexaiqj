@@ -118,7 +118,7 @@ Zero‑day vulnerabilities - Compliance violations
 
 21.  **Crawl job**: A crawl job is a task given to an automated program, called a crawler or spider, to systematically browse and index content on the internet or within a specific network.
 
-
+22. **Google SecOps (formerly Chronicle) **:is a cloud-native security platform that merges SIEM, SOAR, and threat intelligence (via Mandiant) to detect, investigate, and respond to threats at Google speed and scale.
 ------------------------------------------------------------------------
 
 ## Key Features
